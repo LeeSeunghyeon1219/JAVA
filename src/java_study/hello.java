@@ -1,4 +1,4 @@
-package Java_Study;
+package java_study;
 
 public class hello {
 }

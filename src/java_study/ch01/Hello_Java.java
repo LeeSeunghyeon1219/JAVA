@@ -1,4 +1,4 @@
-package Java_Study.ch01;
+package java_study.ch01;
 
 public class Hello_Java {
     public static void main(String[] args) { // Main이 안써있는 경우가 많다.

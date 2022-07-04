@@ -1,4 +1,4 @@
-package Java_Study.ch04;
+package java_study.ch04;
 
 public class Binary_Test {
 
