@@ -13,7 +13,7 @@ public class LocalVariableType {
         str="test";
         System.out.println(str);
 
-//        str=5 // 이건 되지 않는다(
+//        str=5 // 이건 되지 않는다(이유: 한번 선언하면 다른 타입의 값은 대입 불가능!)
 
     }
 
