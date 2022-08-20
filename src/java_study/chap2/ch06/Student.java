@@ -7,7 +7,6 @@ public class Student {
     public int grade;
 
     // 생성자 이름은 동일하게 여러개를 가질 수 있다. Overloading
-    public Student(){}
     //생성자: 객체를 생성할 떄 호출하는 매서드. 생성자 명은 class 명과 동일!
     public Student(int studentNumber, String studentName, int grade) {
         //멤버변수를 참조하는 this.멤버변수명(변수이름이 같을 경우!)
