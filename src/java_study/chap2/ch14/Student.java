@@ -32,6 +32,11 @@ public class Student {
 
         }
     }
+
+    public void takeTaxi(Taxi taxi,int price){
+        taxi.take(price);
+        this.money-=price;
+    }
     public void showInfo() {
         System.out.println(studentName +"님의 남은 돈은 " + money + "원 입니다");
     }
